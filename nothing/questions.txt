@@ -1,0 +1,16 @@
+sort an array
+relative sort array
+sort the people
+sort characters by frequency --> X
+
+
+Linked List
+Partition List
+reverse linked list
+reverse linked list 2 
+remove duplicates from sorted list
+remove duplicates from sorted list 2
+delete node in a linked list
+odd even linked list
+add two numbers
+Remove Nth Node From End of List
